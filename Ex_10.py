@@ -1,0 +1,27 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Tue May 10 15:20:22 2022
+
+@author: Z52XXR7
+
+Livro: Aprendendo Python
+
+Exercício 10 - O que foi isso?
+
+"""
+
+tabby_cat = "\tI'm tabben in."
+persian_cat = "I'm split\non a line."
+backslash_cat = "I'm \\ a \\ cat."
+
+fat_cat = """
+I'll do a list:
+\t* Cat fish
+\t* Fishies
+\t* Catnip\n\t* Grass
+"""
+
+print(tabby_cat)
+print(persian_cat)
+print(backslash_cat)
+print(fat_cat)

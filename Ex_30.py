@@ -2,7 +2,7 @@
 """
 Created on Wed Jul  6 13:35:09 2022
 
-@author: Z52XXR7
+@author: Filipe Pacheco
 
 Livro: Aprendendo Python
 
